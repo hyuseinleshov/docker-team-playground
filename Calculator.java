@@ -14,6 +14,6 @@ public class Calculator {
 
     public static void main(String[] args) {
         // Example usage:
-        System.out.println("Result of addition operation: " + add(5, 3));
+        System.out.println("Result of subtraction operation: " + subtraction(10, 5));
     }
 }
